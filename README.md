@@ -16,6 +16,10 @@ The detail of robot is described in TRO paper (see the below citation info)
 2.Copy and paste the changed files to the original move base SW
 \
 \
+\
+Example launch file : rover_launcher/launch/nav.launch
+\
+
 ## Citation
 ```
 @ARTICLE{9985429,
